@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\bin\Debug\net6.0\Recapitulacao exec matriz.exe
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\bin\Debug\net6.0\Recapitulacao exec matriz.deps.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\bin\Debug\net6.0\Recapitulacao exec matriz.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\bin\Debug\net6.0\Recapitulacao exec matriz.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\bin\Debug\net6.0\Recapitulacao exec matriz.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\refint\Recapitulacao exec matriz.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\Recapitulacao exec matriz.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec matriz\Recapitulacao exec matriz\obj\Debug\net6.0\ref\Recapitulacao exec matriz.dll
